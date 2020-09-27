@@ -1,3 +1,8 @@
+> **Unmaintained. Checkout https://github.com/tuna/freedns-go instead**
+
+---
+
+
 ChinaDNS Plugin for CoreDNS
 ====
 
